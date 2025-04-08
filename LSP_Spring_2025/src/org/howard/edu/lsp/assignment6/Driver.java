@@ -1,7 +1,5 @@
 package org.howard.edu.lsp.assignment6;
 
-import org.howard.edu.lsp.assignment5.IntegerSet;
-
 /**
  * The Driver class is used to test the functionality of the IntegerSet class.
  * It demonstrates various operations as specified in the requirements.
